@@ -14,7 +14,7 @@ read file_name
 # Search for the file recursively in the current directory
 file_check=$(find . -type f -name "$file_name" 2>/dev/null)
 
-# Check if file exists
+# # Check if any matching files were found
 if [ -n "$file_check" ]; then
     echo "$file_name exists at: $file_check"
 
