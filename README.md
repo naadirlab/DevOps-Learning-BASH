@@ -38,4 +38,3 @@ Throughout these exercises, I learned how to automate system tasks, handle files
 | `backup_script.sh` | Copies all `.txt` files to a backup directory, creating it if necessary. |
 
 ---
-# DevOps-Learning-BASH
