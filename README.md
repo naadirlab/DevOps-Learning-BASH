@@ -5,7 +5,7 @@
 Welcome to my **Bash Scripting Arena**!  
 This repository contains a total of **16 Bash scripts** — including 12 Bash Battle Arena levels and 4 assignment scripts — completed as part of the **CoderCo DevOps Bash Module**.  
 
-Throughout these exercises, I learned how to automate system tasks, handle files, work with conditionals, and manage monitoring and backups - All essential skills in DevOps scripting.
+Throughout these exercises, I learned how to automate system tasks, handle files, work with conditionals, and manage monitoring and backups - all essential skills in DevOps scripting.
 
 ---
 
