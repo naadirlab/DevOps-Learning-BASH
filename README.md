@@ -1,6 +1,6 @@
 # DevOps Learning - BASH
 
-## 🧠 CoderCo DevOps Guide: BASH Scripting
+## 🧠 DevOps Bash Scripting Module
 
 Welcome to my **Bash Scripting Arena**!  
 This repository contains a total of **16 Bash scripts** — including 12 Bash Battle Arena levels and 4 assignment scripts — completed as part of the **CoderCo DevOps Bash Module**.  
