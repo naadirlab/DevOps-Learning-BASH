@@ -1,0 +1,17 @@
+#!/bin/bash
+
+: '
+This script reads a configuration file in the
+format "KEY=VALUE" and prints each key-value pair.
+'
+
+CONFIG_FILE="/Arena/settings.conf"
+
+if [ ! -f "$CONFIG_FILE" ]; then
+    echo "Configuration File does not exist."
+    exit 1
+fi
+
+while IFS='=' read -r key value; do 
+    echo "Key: $key, Value: $value"
+done < "$CONFIG_FILE"
