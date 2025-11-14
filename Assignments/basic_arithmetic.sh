@@ -17,13 +17,12 @@ read num2
 sum=$((num1 + num2))
 
 # Subtraction 
-diff=$((num1 - nume2))
+diff=$((num1 - num2))
 
 # Multiplication 
 prod=$((num1 * num2))
 
 # Division
-
 if [ $num2 -eq 0 ]; then
     quot="You cannot divide by 0." 
 else

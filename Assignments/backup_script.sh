@@ -7,7 +7,7 @@ does not exist, the script creates it first.
 '
 
 # Source directory
-source_dir="/Arena/Assignments"
+source_dir="Assignments"
 
 # Backup directory
 backup_dir="$source_dir/BACKUP_DIR"

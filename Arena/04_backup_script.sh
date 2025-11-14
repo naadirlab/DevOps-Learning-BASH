@@ -1,10 +1,10 @@
 #!/bin/bash
 
 : '
-This script copies all .txt files from the Arena directory
+This script copies all .txt files from a directory
 to a new directory called Backup.
 '
 
-mkdir -p Arena/Backup    # Create directory when required
+mkdir -p Backup    # Create directory when required
 
-cp Arena/*.txt Arena/Backup   # Copy all .txt files into Backup directory
+cp *.txt Backup    # Copy all .txt files into Backup directory

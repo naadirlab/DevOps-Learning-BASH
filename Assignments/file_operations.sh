@@ -7,10 +7,10 @@ and then displays the contents of the file.
 '
 
 # Create Directory
-mkdir -p /Arena/Assignments/dir_1
+mkdir -p dir_1
 
 # Navigate into Directory
-cd /Arena/Assignments/dir_1
+cd dir_1
 
 # Create file inside Directory
 touch file.txt 
